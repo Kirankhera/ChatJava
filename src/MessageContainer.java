@@ -1,5 +1,5 @@
-import java.io.*;
-import java.util.*;
+import java.io.Serializable;
+import java.util.ArrayList;
 abstract public class MessageContainer
 {
 
